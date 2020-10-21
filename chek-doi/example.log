@@ -1,0 +1,19 @@
+INFO:root:Started
+DEBUG:root:handle url https://doi.org/api/handles/10.1344/bid2019.43.19
+DEBUG:root:http://bid.ub.edu/43/fonseca.htm
+DEBUG:root:handle url https://doi.org/api/handles/10.1633/jistap.2019.7.4.3
+DEBUG:root:http://koreascience.or.kr/journal/view.jsp?kj=E1JSCH&py=2019&vnc=v7n4&sp=33
+DEBUG:root:handle url https://doi.org/api/handles/10.3989/redc.2019.4.1640
+DEBUG:root:http://redc.revistas.csic.es/index.php/redc/article/view/1052
+INFO:root:Started
+DEBUG:root:handle url https://doi.org/api/handles/10.1344/bid2019.43.19
+DEBUG:root:['10.1344/bid2019.43.19']:'http://bid.ub.edu/43/fonseca.htm',
+DEBUG:root:handle url https://doi.org/api/handles/10.1633/jistap.2019.7.4.3
+DEBUG:root:['10.1633/jistap.2019.7.4.3']:'http://koreascience.or.kr/journal/view.jsp?kj=E1JSCH&py=2019&vnc=v7n4&sp=33',
+DEBUG:root:handle url https://doi.org/api/handles/10.3989/redc.2019.4.1640
+DEBUG:root:['10.3989/redc.2019.4.1640']:'http://redc.revistas.csic.es/index.php/redc/article/view/1052',
+INFO:root:Started
+DEBUG:root:['10.1344/bid2019.43.19']:['http://bid.ub.edu/43/fonseca.htm','https://doi.org/api/handles/10.1344/bid2019.43.19']
+DEBUG:root:['10.1633/jistap.2019.7.4.3']:['http://koreascience.or.kr/journal/view.jsp?kj=E1JSCH&py=2019&vnc=v7n4&sp=33','https://doi.org/api/handles/10.1633/jistap.2019.7.4.3']
+DEBUG:root:['10.3989/redc.2019.4.1640']:['http://redc.revistas.csic.es/index.php/redc/article/view/1052','https://doi.org/api/handles/10.3989/redc.2019.4.1640']
+
